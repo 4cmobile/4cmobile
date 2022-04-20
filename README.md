@@ -40,11 +40,14 @@ Node
 - Babel / WebPack / NVM / NPM / Yarn
 - ES6
 - Express
-- 
+- 프로젝트 생성/빌드/배포
 - MariaDB / Oracle
 - Socket
 - ReactJS
-- 
+- 프로젝트 생성/빌드/배포
+- 디자인템플릿(material,beautify)
+- 컴포넌트 생성 및 사용/적용 및 라우터
+- 리덕스적용 
 
 
 Android(Java)
@@ -58,6 +61,15 @@ Android(Java)
 
 Android(Kotlin)
 
+
+IOS(Swift)
+- 프로젝트 생성 / 빌드 / 배포
+- LifeCycle
+- 계층구조
+- 레이아웃 구성 방법 (제플린 디자인 그대로 구성하기)
+- WebView
+- OneSignal / Firebase
+- WiFi / BLE(Beacon) / GPS
 
 
 
